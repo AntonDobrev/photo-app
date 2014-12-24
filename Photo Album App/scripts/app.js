@@ -74,7 +74,7 @@
             // Create the monitor instance using the unique product key for analytics
             var settings = factory.CreateSettings(analyticsProductKey);
             settings.LoggingInterface = factory.CreateTraceLogger();
-            settings.ServerUri = "http://192.168.52.43:8080/";
+            settings.ServerUri = "http://" + platformIp + ":81/";
             factory.CreateMonitorWithSettings(settings,
                 function() {
                     console.log("Monitor created");
