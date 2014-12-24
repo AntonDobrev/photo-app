@@ -1,0 +1,37 @@
+{
+  "ProjectName": "Photo Album App",
+  "ProjectGuid": "9b008d37-9eb4-462e-974b-38afe35c6c27",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.PhotoAlbumApp",
+  "DisplayName": "Photo Album App",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{832bbb97-cd76-4376-b794-3f77de36141d}",
+  "WP8ProductID": "{6ba33b5d-7261-417a-bc4f-9e88ff4b5d88}",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
